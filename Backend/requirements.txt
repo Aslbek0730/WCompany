@@ -1,0 +1,11 @@
+Django==5.2.4
+djangorestframework==3.16.0
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.7.0
+Pillow==11.3.0
+python-decouple==3.8
+weasyprint==66.0
+reportlab==4.4.3
+celery==5.5.3
+redis==6.2.0
+requests==2.31.0 
